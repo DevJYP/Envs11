@@ -27,7 +27,7 @@ test_df = pd.read_sql_query('SELECT * FROM tbl_member', engine)
 
 # temp code --> 모델 불러오기
 
-# eeeetttts
+# eeeettttsawsdawdawsda
 
 
 
